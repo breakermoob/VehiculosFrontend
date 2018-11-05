@@ -1,0 +1,10 @@
+#logoApp{
+    height: 20%;
+    width: auto;
+    position: relative;
+    left: 1%;
+}
+
+#barraSuperior:focus{
+    background-color: #4dd0e1; 
+}
